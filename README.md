@@ -12,6 +12,18 @@
 Aplikasi ini berbasis Laravel 11, kode dasar didapat dari Channel Youtube "Programming Di Rumahrafif" dengan beberapa modifikasi seperti penambahan fitur Tags, dan lain lain.
 Saya akan mengembangkan aplikasi ini lebih lanjut dengan beberapa fitur tambahan.
 
+## Screenshot Aplikasi
+
+<div align="center">
+  <h3>Dashboard</h3>
+  <img src="assets/Screenshot 2025-11-27 at 18.09.57.png" alt="Dashboard Screenshot" width="800">
+</div>
+
+<div align="center">
+  <h3>Delete Todo</h3>
+  <img src="assets/Screenshot 2025-11-27 at 18.10.05.png.png" alt="Todo Page Screenshot" width="800">
+</div>
+
 ## Free to Copy and About Me
 
 Aplikasi ini bebas digunakan untuk proyek Anda, dengan tetap mencantumkan kredit kepada Programming Di Rumahrafif dan saya. Segala bentuk penyalahgunaan aplikasi di luar tanggung jawab saya.
